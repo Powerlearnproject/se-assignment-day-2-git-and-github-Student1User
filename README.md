@@ -38,7 +38,7 @@ Version control maintains project integrity by ensuring that changes are documen
 - **License** – Do you want others to use and contribute to your project?  
 - **.gitignore** – Helps keep unnecessary files out of version control.  
 
-Once the repo is set up, you can clone it to your local machine and start working on your project! 🚀
+Once the repo is set up, you can clone it to your local machine and start working on your project! 🚀  
 
 
 3. Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
