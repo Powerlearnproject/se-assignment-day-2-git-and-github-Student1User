@@ -63,7 +63,7 @@ A **README** file is the first thing people see when they visit your repository.
 - **Reduces confusion by providing clear setup and usage instructions.**  
 - **Attracts more contributors and users.**  
 
-A great README makes your project more **organized, user-friendly, and professional**! 🚀
+A great README makes your project more **organized, user-friendly, and professional**! 🚀  
 
 
 4. Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
